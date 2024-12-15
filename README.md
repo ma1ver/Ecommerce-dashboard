@@ -1,5 +1,5 @@
 # Ecommerce-dashboard
-This is a project created on Power BI, consisting of a dashboard of an ecommerce store.
+This is a project created on Excel & Power BI, consisting of a dashboard of an ecommerce store.
 
 In today’s data-driven world, gaining insights from vast amounts of data is crucial for business success. This dashboard addresses this need by providing a comprehensive and interactive overview of key metrics for an e-commerce store, making data analysis more intuitive and actionable. 
 
